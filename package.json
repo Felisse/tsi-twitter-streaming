@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Felisse/tsi-twitter-streaming#readme",
   "dependencies": {
-    "lodash": "^4.17.2"
+    "lodash": "^4.17.2",
+    "request": "^2.79.0",
+    "request-debug": "^0.2.0"
   }
 }
