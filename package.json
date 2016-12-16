@@ -1,0 +1,19 @@
+{
+  "name": "tsi-twitter-streaming",
+  "version": "0.0.1",
+  "description": "Node.JS app that streams informations from Twitter and feed metrics & tweets to BMC TrueSight Intelligence platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felisse/tsi-twitter-streaming.git"
+  },
+  "author": "Felisse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felisse/tsi-twitter-streaming/issues"
+  },
+  "homepage": "https://github.com/Felisse/tsi-twitter-streaming#readme"
+}
